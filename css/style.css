@@ -215,6 +215,10 @@ p{
 	font-size: 1.6rem;
 }
 
+.github_links{
+	color: white;
+}
+
 .main_container{
 	height: 80vh;
 	padding-top: 20rem;
